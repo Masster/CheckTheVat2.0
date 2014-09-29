@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Расчет НДС 2.0</string>
+
+    <string name="btnStart">Выполнить</string>
+    <string name="tvSum">Сумма</string>
+    <string name="tvSumVat">Сумма + НДС</string>
+    <string name="tvVAT">НДС</string>
+    <string name="tvSumWVAT">Сумма - НДС</string>
+    <string name="tvInVAT">в том числе НДС</string>
+
+    <string name="action_cat_female">Купить программу</string>
+    <string name="action_kitten">О программе</string>
+    <string name="action_settings">Язык интерфейса</string>
+
+</resources>

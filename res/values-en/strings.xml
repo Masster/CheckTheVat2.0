@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Check The VAT 2.0</string>
+
+    <string name="btnStart">Let`s check it</string>
+    <string name="tvSum">Amount</string>
+    <string name="tvSumVat">Amount + VAT</string>
+    <string name="tvVAT">VAT</string>
+    <string name="tvSumWVAT">Amount - VAT</string>
+    <string name="tvInVAT">including VAT</string>
+
+    <string name="action_cat_female">Buy the program</string>
+    <string name="action_kitten">About</string>
+    <string name="action_settings">Language UI</string>
+
+</resources>
