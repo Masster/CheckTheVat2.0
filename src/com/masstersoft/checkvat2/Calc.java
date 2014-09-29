@@ -3,7 +3,7 @@ package com.masstersoft.checkvat2;
 import java.math.BigDecimal;
 
 /**
- * Created by Masster on 29.09.14.
+ * Created by Masster on 24.02.14.
  */
 public class Calc {
 
