@@ -23,6 +23,10 @@ import java.text.DecimalFormat;
 import java.util.Calendar;
 import java.util.Locale;
 
+/**
+ * Created by Masster on 29.09.14.
+ */
+
 public class MyActivity extends Activity {
     final String PrefMain = "MainPreferenses";
     /**
