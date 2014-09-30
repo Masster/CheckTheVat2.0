@@ -1,4 +1,5 @@
-/*.idea
+﻿/.idea
 /gen
 /out
 local.properties
+/.idea
